@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/[SalahP].github.io/niakarie/static/css/main.fcc7488c.chunk.css",
+    "main.js": "/[SalahP].github.io/niakarie/static/js/main.73a6abc2.chunk.js",
+    "main.js.map": "/[SalahP].github.io/niakarie/static/js/main.73a6abc2.chunk.js.map",
+    "runtime-main.js": "/[SalahP].github.io/niakarie/static/js/runtime-main.5b612f45.js",
+    "runtime-main.js.map": "/[SalahP].github.io/niakarie/static/js/runtime-main.5b612f45.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/[SalahP].github.io/niakarie/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.6d42005a.chunk.js": "/[SalahP].github.io/niakarie/static/js/2.6d42005a.chunk.js",
+    "static/js/2.6d42005a.chunk.js.map": "/[SalahP].github.io/niakarie/static/js/2.6d42005a.chunk.js.map",
+    "index.html": "/[SalahP].github.io/niakarie/index.html",
+    "precache-manifest.61d1f83f0464bcff27a2a5fbf6ae6ce5.js": "/[SalahP].github.io/niakarie/precache-manifest.61d1f83f0464bcff27a2a5fbf6ae6ce5.js",
+    "service-worker.js": "/[SalahP].github.io/niakarie/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/[SalahP].github.io/niakarie/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.fcc7488c.chunk.css.map": "/[SalahP].github.io/niakarie/static/css/main.fcc7488c.chunk.css.map",
+    "static/media/index.css": "/[SalahP].github.io/niakarie/static/media/fond.bf014e8a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b612f45.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.6d42005a.chunk.js",
+    "static/css/main.fcc7488c.chunk.css",
+    "static/js/main.73a6abc2.chunk.js"
+  ]
+}
