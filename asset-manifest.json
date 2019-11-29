@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/niakarie/static/css/main.d8aa06cc.chunk.css",
-    "main.js": "/niakarie/static/js/main.99c95077.chunk.js",
-    "main.js.map": "/niakarie/static/js/main.99c95077.chunk.js.map",
+    "main.js": "/niakarie/static/js/main.fc11b138.chunk.js",
+    "main.js.map": "/niakarie/static/js/main.fc11b138.chunk.js.map",
     "runtime-main.js": "/niakarie/static/js/runtime-main.fa3ca535.js",
     "runtime-main.js.map": "/niakarie/static/js/runtime-main.fa3ca535.js.map",
     "static/css/2.17e5ed98.chunk.css": "/niakarie/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.78b03419.chunk.js": "/niakarie/static/js/2.78b03419.chunk.js",
-    "static/js/2.78b03419.chunk.js.map": "/niakarie/static/js/2.78b03419.chunk.js.map",
+    "static/js/2.4e69faa9.chunk.js": "/niakarie/static/js/2.4e69faa9.chunk.js",
+    "static/js/2.4e69faa9.chunk.js.map": "/niakarie/static/js/2.4e69faa9.chunk.js.map",
     "index.html": "/niakarie/index.html",
-    "precache-manifest.f84c732cbb624bbb7dda97555b0b0fbe.js": "/niakarie/precache-manifest.f84c732cbb624bbb7dda97555b0b0fbe.js",
+    "precache-manifest.581f449f614630984f0d884a8f985788.js": "/niakarie/precache-manifest.581f449f614630984f0d884a8f985788.js",
     "service-worker.js": "/niakarie/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/niakarie/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.d8aa06cc.chunk.css.map": "/niakarie/static/css/main.d8aa06cc.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.fa3ca535.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.78b03419.chunk.js",
+    "static/js/2.4e69faa9.chunk.js",
     "static/css/main.d8aa06cc.chunk.css",
-    "static/js/main.99c95077.chunk.js"
+    "static/js/main.fc11b138.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b98a9cdefdad1281709242907560aabe",
+    "revision": "8a4e9cbc467bb35a49307982dfe9db6a",
     "url": "/niakarie/index.html"
   },
   {
-    "revision": "2ee34e5b2ddd4c52d8e1",
+    "revision": "a448818eca71f26a5471",
     "url": "/niakarie/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "dfdf32228a201270035e",
+    "revision": "ad9d4eaf04881e9734ed",
     "url": "/niakarie/static/css/main.d8aa06cc.chunk.css"
   },
   {
-    "revision": "2ee34e5b2ddd4c52d8e1",
-    "url": "/niakarie/static/js/2.78b03419.chunk.js"
+    "revision": "a448818eca71f26a5471",
+    "url": "/niakarie/static/js/2.4e69faa9.chunk.js"
   },
   {
-    "revision": "dfdf32228a201270035e",
-    "url": "/niakarie/static/js/main.99c95077.chunk.js"
+    "revision": "ad9d4eaf04881e9734ed",
+    "url": "/niakarie/static/js/main.fc11b138.chunk.js"
   },
   {
     "revision": "dadca28e2953519024b3",
