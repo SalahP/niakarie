@@ -3,7 +3,8 @@ import Favicon from 'react-favicon';
 import Home from './Home';
 import Video1 from './Video1';
 import Video2 from './Video2';
-import Contact from './Contact'
+import Contact from './Contact';
+import ResponsiveContainer from 'react-responsive-widget';
 
 
 class App extends React.Component {
@@ -40,6 +41,7 @@ class App extends React.Component {
   render() {
 
     return (
+    <ResponsiveContainer>
       <div class ="container-fluid">
         <Favicon url="./logo.png"></Favicon>
         <nav class="navbar border-bottom">
@@ -48,6 +50,7 @@ class App extends React.Component {
         </nav><br/>
         {this.state.page}
       </div>
+    </ResponsiveContainer>
 
     )
   }
