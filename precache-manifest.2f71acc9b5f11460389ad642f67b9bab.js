@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d80edf06e93e2b57b415aeecde626c45",
+    "revision": "098faf1f42b62e6000705dd2bedefd48",
     "url": "/niakarie/index.html"
   },
   {
