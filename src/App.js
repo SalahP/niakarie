@@ -45,7 +45,7 @@ class App extends React.Component {
       <div class ="container-fluid">
         <Favicon url="./logo.png"></Favicon>
         <nav class="navbar border-bottom">
-        <button class="btn btn-lg" onClick={() => this.getHome()}><h3 class="text-white">Home</h3></button>
+        <button class="btn btn-lg" onClick={() => this.getHome()}><h3 class="text-white">Hometest</h3></button>
         <button class="btn btn-lg"onClick={() => this.getContact()}><h3 class="text-white justify-content-end">Contact</h3></button>
         </nav><br/>
         {this.state.page}
