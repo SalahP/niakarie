@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79463c0186a20022ceb903eb7d7e2855",
+    "revision": "845975f80a6fa30a9426a22519dc3ac4",
     "url": "/niakarie/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/niakarie/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "8fd4c3fe7f66d0648053",
+    "revision": "12c11d0e0b0075f63d29",
     "url": "/niakarie/static/css/main.d8aa06cc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/niakarie/static/js/2.6d42005a.chunk.js"
   },
   {
-    "revision": "8fd4c3fe7f66d0648053",
-    "url": "/niakarie/static/js/main.73a6abc2.chunk.js"
+    "revision": "12c11d0e0b0075f63d29",
+    "url": "/niakarie/static/js/main.6f298a4c.chunk.js"
   },
   {
     "revision": "dadca28e2953519024b3",

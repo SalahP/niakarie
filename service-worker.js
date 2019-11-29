@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/niakarie/precache-manifest.f2e79a119194426724ea3ea6f4209964.js"
+  "/niakarie/precache-manifest.564c4ba337b40d91156c9f243b395b5a.js"
 );
 
 self.addEventListener('message', (event) => {
